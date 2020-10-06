@@ -1,0 +1,10 @@
+hola https://dle.rae.es/hola?m=form
+adiós https://dle.rae.es/adi%C3%B3s
+alto https://dle.rae.es/alto?m=form
+amarillo https://dle.rae.es/amarillo?m=form
+lámpara https://dle.rae.es/l%C3%A1mpara?m=form
+techo https://dle.rae.es/techo?m=form
+coche https://dle.rae.es/coche?m=form
+árbol https://dle.rae.es/%C3%A1rbol
+cena https://dle.rae.es/cena?m=form
+móvil https://dle.rae.es/m%C3%B3vil?m=form
